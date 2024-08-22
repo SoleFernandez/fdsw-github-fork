@@ -20,6 +20,13 @@ body {
   background-position: center;
 }
 
+@media (max-width: 768px) {
+  #Mis-trabajos div {
+    display: block;
+    width: 100%;
+  }
+}
+
 /* Contacto */
 
 #Contacto form label {
